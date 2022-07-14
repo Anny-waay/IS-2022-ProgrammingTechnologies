@@ -1,0 +1,201 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FSharp.Core/6.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/FSharp.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/FSharp.Core.dll": {}
+        },
+        "resource": {
+          "lib/netstandard2.1/cs/FSharp.Core.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/netstandard2.1/de/FSharp.Core.resources.dll": {
+            "locale": "de"
+          },
+          "lib/netstandard2.1/es/FSharp.Core.resources.dll": {
+            "locale": "es"
+          },
+          "lib/netstandard2.1/fr/FSharp.Core.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/netstandard2.1/it/FSharp.Core.resources.dll": {
+            "locale": "it"
+          },
+          "lib/netstandard2.1/ja/FSharp.Core.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/netstandard2.1/ko/FSharp.Core.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/netstandard2.1/pl/FSharp.Core.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/netstandard2.1/pt-BR/FSharp.Core.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/netstandard2.1/ru/FSharp.Core.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/netstandard2.1/tr/FSharp.Core.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/netstandard2.1/zh-Hans/FSharp.Core.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/netstandard2.1/zh-Hant/FSharp.Core.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        },
+        "contentFiles": {
+          "contentFiles/any/any/_._": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        }
+      },
+      "GraphBfsDfs/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/GraphBfsDfs.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/GraphBfsDfs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FSharp.Core/6.0.2": {
+      "sha512": "8GZqv6buY71KQlWT+cl2eMi+aNX9xQ61RgI3Pzv9zPxPOX6tWCLRrBj0MYQ3h871r2RhiHUl7f0AXUD/POr8eA==",
+      "type": "package",
+      "path": "fsharp.core/6.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "contentFiles/any/netstandard2.0/FSharp.Core.xml",
+        "contentFiles/any/netstandard2.1/FSharp.Core.xml",
+        "fsharp.core.6.0.2.nupkg.sha512",
+        "fsharp.core.nuspec",
+        "lib/netstandard2.0/FSharp.Core.dll",
+        "lib/netstandard2.0/FSharp.Core.xml",
+        "lib/netstandard2.0/cs/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/de/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/es/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/fr/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/it/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/ja/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/ko/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/pl/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/pt-BR/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/ru/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/tr/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/zh-Hans/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/zh-Hant/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/FSharp.Core.dll",
+        "lib/netstandard2.1/FSharp.Core.xml",
+        "lib/netstandard2.1/cs/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/de/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/es/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/fr/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/it/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/ja/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/ko/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/pl/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/pt-BR/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/ru/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/tr/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/zh-Hans/FSharp.Core.resources.dll",
+        "lib/netstandard2.1/zh-Hant/FSharp.Core.resources.dll"
+      ]
+    },
+    "GraphBfsDfs/1.0.3": {
+      "sha512": "I0iVQS1ivcfLTN9FIDx5aLAiB0rxVMhVPQRWQoVuAXhKXzXl0klB3If2tVl+7giu044dpI4D2qpmPBQx3V2aMw==",
+      "type": "package",
+      "path": "graphbfsdfs/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "graphbfsdfs.1.0.3.nupkg.sha512",
+        "graphbfsdfs.nuspec",
+        "lib/net6.0/GraphBfsDfs.dll",
+        "lib/net6.0/GraphBfsDfs.runtimeconfig.json"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FSharp.Core >= 6.0.2",
+      "GraphBfsDfs >= 1.0.3"
+    ]
+  },
+  "packageFolders": {
+    "/Users/annakomova/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/annakomova/Desktop/TechProg/lab-1/TestTask3Cs/TestTask3Fs/TestTask3Fs.fsproj",
+      "projectName": "TestTask3Fs",
+      "projectPath": "/Users/annakomova/Desktop/TechProg/lab-1/TestTask3Cs/TestTask3Fs/TestTask3Fs.fsproj",
+      "packagesPath": "/Users/annakomova/.nuget/packages/",
+      "outputPath": "/Users/annakomova/Desktop/TechProg/lab-1/TestTask3Cs/TestTask3Fs/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/annakomova/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "FSharp.Core": {
+            "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+            "target": "Package",
+            "version": "[6.0.2, )",
+            "generatePathProperty": true
+          },
+          "GraphBfsDfs": {
+            "target": "Package",
+            "version": "[1.0.3, )",
+            "generatePathProperty": true
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/annakomova/.dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

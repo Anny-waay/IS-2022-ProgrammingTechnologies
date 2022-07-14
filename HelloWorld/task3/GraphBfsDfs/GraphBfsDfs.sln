@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphBfsDfs", "GraphBfsDfs\GraphBfsDfs.csproj", "{EFA47A9B-0E88-4D6F-A122-626201B6F018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA47A9B-0E88-4D6F-A122-626201B6F018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA47A9B-0E88-4D6F-A122-626201B6F018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA47A9B-0E88-4D6F-A122-626201B6F018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA47A9B-0E88-4D6F-A122-626201B6F018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

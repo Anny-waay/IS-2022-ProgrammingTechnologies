@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oxXno5fbe1Kzky6vraMglBg70U//89HKWKLInyk3Q+a8AIZsKkammk7jcWWf99Tb3SAG8mfkEMYsRiV+AyRLmw==",
+  "success": true,
+  "projectFilePath": "/Users/annakomova/Desktop/TechProg/lab-1/TestTask3Cs/TestTask3Fs/TestTask3Fs.fsproj",
+  "expectedPackageFiles": [
+    "/Users/annakomova/.nuget/packages/fsharp.core/6.0.2/fsharp.core.6.0.2.nupkg.sha512",
+    "/Users/annakomova/.nuget/packages/graphbfsdfs/1.0.3/graphbfsdfs.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
