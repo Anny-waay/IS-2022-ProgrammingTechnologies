@@ -1,0 +1,4 @@
+JMH S 24 benchmark.SortsBenchmark S 57 benchmark.generated.SortsBenchmark_BubbleSortTest_jmhTest S 14 BubbleSortTest S 11 AverageTime E A 1 1 1 E I 1 1 E E I 2 10 E E I 1 1 E E E E E M 1 1 N 2 3 100 5 10000 U 11 NANOSECONDS E E 
+JMH S 24 benchmark.SortsBenchmark S 56 benchmark.generated.SortsBenchmark_QuickSortTest_jmhTest S 13 QuickSortTest S 11 AverageTime E A 1 1 1 E I 1 1 E E I 2 10 E E I 1 1 E E E E E M 1 1 N 2 3 100 5 10000 U 11 NANOSECONDS E E 
+JMH S 24 benchmark.SortsBenchmark S 56 benchmark.generated.SortsBenchmark_MergeSortTest_jmhTest S 13 MergeSortTest S 11 AverageTime E A 1 1 1 E I 1 1 E E I 2 10 E E I 1 1 E E E E E M 1 1 N 2 3 100 5 10000 U 11 NANOSECONDS E E 
+JMH S 24 benchmark.SortsBenchmark S 59 benchmark.generated.SortsBenchmark_StandartSortTest_jmhTest S 16 StandartSortTest S 11 AverageTime E A 1 1 1 E I 1 1 E E I 2 10 E E I 1 1 E E E E E M 1 1 N 2 3 100 5 10000 U 11 NANOSECONDS E E 
